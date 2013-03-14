@@ -1,0 +1,806 @@
+08/21/12 3:01:20 PM: Running in Debug Mode.
+08/21/12 3:01:20 PM: There are 1 databases.
+08/21/12 3:01:20 PM: The rarFileArraySize variable has been set to 62
+08/21/12 3:01:20 PM: The compressedFiles, rarFiles, and monthList arrays have been initialized.
+08/21/12 3:01:20 PM: The rarFiles and monthList arrays were filled. These are there contents.
+		rarFiles[0] = I:\TEST\test_file-1000_01_01.rar
+		rarFiles[1] = I:\TEST\test_file-1000_01_02.rar
+		rarFiles[2] = I:\TEST\test_file-1000_01_03.rar
+		rarFiles[3] = I:\TEST\test_file-1000_01_04.rar
+		rarFiles[4] = I:\TEST\test_file-1000_01_05.rar
+		rarFiles[5] = I:\TEST\test_file-1000_01_06.rar
+		rarFiles[6] = I:\TEST\test_file-1000_01_07.rar
+		rarFiles[7] = I:\TEST\test_file-1000_01_08.rar
+		rarFiles[8] = I:\TEST\test_file-1000_01_09.rar
+		rarFiles[9] = I:\TEST\test_file-1000_01_10.rar
+		rarFiles[10] = I:\TEST\test_file-1000_01_11.rar
+		rarFiles[11] = I:\TEST\test_file-1000_01_12.rar
+		rarFiles[12] = I:\TEST\test_file-1000_01_13.rar
+		rarFiles[13] = I:\TEST\test_file-1000_01_14.rar
+		rarFiles[14] = I:\TEST\test_file-1000_01_15.rar
+		rarFiles[15] = I:\TEST\test_file-1000_01_16.rar
+		rarFiles[16] = I:\TEST\test_file-1000_01_17.rar
+		rarFiles[17] = I:\TEST\test_file-1000_01_18.rar
+		rarFiles[18] = I:\TEST\test_file-1000_01_19.rar
+		rarFiles[19] = I:\TEST\test_file-1000_01_20.rar
+		rarFiles[20] = I:\TEST\test_file-1000_01_21.rar
+		rarFiles[21] = I:\TEST\test_file-1000_01_22.rar
+		rarFiles[22] = I:\TEST\test_file-1000_01_23.rar
+		rarFiles[23] = I:\TEST\test_file-1000_01_24.rar
+		rarFiles[24] = I:\TEST\test_file-1000_01_25.rar
+		rarFiles[25] = I:\TEST\test_file-1000_01_26.rar
+		rarFiles[26] = I:\TEST\test_file-1000_01_27.rar
+		rarFiles[27] = I:\TEST\test_file-1000_01_28.rar
+		rarFiles[28] = I:\TEST\test_file-1000_01_29.rar
+		rarFiles[29] = I:\TEST\test_file-1000_01_30.rar
+		rarFiles[30] = I:\TEST\test_file-1000_02_01.rar
+		rarFiles[31] = I:\TEST\test_file-1000_02_02.rar
+		rarFiles[32] = I:\TEST\test_file-1000_02_03.rar
+		rarFiles[33] = I:\TEST\test_file-1000_02_04.rar
+		rarFiles[34] = I:\TEST\test_file-1000_02_05.rar
+		rarFiles[35] = I:\TEST\test_file-1000_02_06.rar
+		rarFiles[36] = I:\TEST\test_file-1000_02_07.rar
+		rarFiles[37] = I:\TEST\test_file-1000_02_08.rar
+		rarFiles[38] = I:\TEST\test_file-1000_02_09.rar
+		rarFiles[39] = I:\TEST\test_file-1000_02_10.rar
+
+		monthList[0] = 1
+		monthList[1] = 1
+		monthList[2] = 1
+		monthList[3] = 1
+		monthList[4] = 1
+		monthList[5] = 1
+		monthList[6] = 1
+		monthList[7] = 1
+		monthList[8] = 1
+		monthList[9] = 1
+		monthList[10] = 1
+		monthList[11] = 1
+		monthList[12] = 1
+		monthList[13] = 1
+		monthList[14] = 1
+		monthList[15] = 1
+		monthList[16] = 1
+		monthList[17] = 1
+		monthList[18] = 1
+		monthList[19] = 1
+		monthList[20] = 1
+		monthList[21] = 1
+		monthList[22] = 1
+		monthList[23] = 1
+		monthList[24] = 1
+		monthList[25] = 1
+		monthList[26] = 1
+		monthList[27] = 1
+		monthList[28] = 1
+		monthList[29] = 1
+		monthList[30] = 2
+		monthList[31] = 2
+		monthList[32] = 2
+		monthList[33] = 2
+		monthList[34] = 2
+		monthList[35] = 2
+		monthList[36] = 2
+		monthList[37] = 2
+		monthList[38] = 2
+		monthList[39] = 2
+08/21/12 3:01:20 PM: Compressed Files were loaded from the File List and put into the array.
+		compressedFiles[0] = I:\TEST\TESTFILE_1000_01_16.test
+		compressedFiles[1] = I:\TEST\TESTFILE_1000_01_17.test
+		compressedFiles[2] = I:\TEST\TESTFILE_1000_01_18.test
+		compressedFiles[3] = I:\TEST\TESTFILE_1000_01_19.test
+		compressedFiles[4] = I:\TEST\TESTFILE_1000_01_20.test
+		compressedFiles[5] = I:\TEST\TESTFILE_1000_01_21.test
+		compressedFiles[6] = I:\TEST\TESTFILE_1000_01_22.test
+		compressedFiles[7] = I:\TEST\TESTFILE_1000_01_23.test
+		compressedFiles[8] = I:\TEST\TESTFILE_1000_01_24.test
+		compressedFiles[9] = I:\TEST\TESTFILE_1000_01_25.test
+		compressedFiles[10] = I:\TEST\TESTFILE_1000_01_26.test
+		compressedFiles[11] = I:\TEST\TESTFILE_1000_01_27.test
+		compressedFiles[12] = I:\TEST\TESTFILE_1000_01_28.test
+		compressedFiles[13] = I:\TEST\TESTFILE_1000_01_29.test
+		compressedFiles[14] = I:\TEST\TESTFILE_1000_01_30.test
+		compressedFiles[15] = I:\TEST\TESTFILE_1000_02_01.test
+		compressedFiles[16] = I:\TEST\TESTFILE_1000_02_02.test
+		compressedFiles[17] = I:\TEST\TESTFILE_1000_02_03.test
+		compressedFiles[18] = I:\TEST\TESTFILE_1000_02_04.test
+		compressedFiles[19] = I:\TEST\TESTFILE_1000_02_05.test
+		compressedFiles[20] = I:\TEST\TESTFILE_1000_02_06.test
+		compressedFiles[21] = I:\TEST\TESTFILE_1000_02_07.test
+		compressedFiles[22] = I:\TEST\TESTFILE_1000_02_08.test
+		compressedFiles[23] = I:\TEST\TESTFILE_1000_02_09.test
+		compressedFiles[24] = I:\TEST\TESTFILE_1000_02_10.test
+08/21/12 3:01:38 PM: FileExtensions have been loaded into a list.
+		fileExtentsions[0] = .test
+08/21/12 3:01:38 PM: FilesToCompress have been loaded into a list.
+		filesToCompress[0] = I:\TEST\TESTFILE_1000_02_11.test
+		filesToCompress[1] = I:\TEST\TESTFILE_1000_01_16.test
+		filesToCompress[2] = I:\TEST\TESTFILE_1000_01_17.test
+		filesToCompress[3] = I:\TEST\TESTFILE_1000_01_18.test
+		filesToCompress[4] = I:\TEST\TESTFILE_1000_01_19.test
+		filesToCompress[5] = I:\TEST\TESTFILE_1000_01_20.test
+		filesToCompress[6] = I:\TEST\TESTFILE_1000_01_21.test
+		filesToCompress[7] = I:\TEST\TESTFILE_1000_01_22.test
+		filesToCompress[8] = I:\TEST\TESTFILE_1000_01_23.test
+		filesToCompress[9] = I:\TEST\TESTFILE_1000_01_24.test
+		filesToCompress[10] = I:\TEST\TESTFILE_1000_01_25.test
+		filesToCompress[11] = I:\TEST\TESTFILE_1000_01_26.test
+		filesToCompress[12] = I:\TEST\TESTFILE_1000_01_27.test
+		filesToCompress[13] = I:\TEST\TESTFILE_1000_01_28.test
+		filesToCompress[14] = I:\TEST\TESTFILE_1000_01_29.test
+		filesToCompress[15] = I:\TEST\TESTFILE_1000_01_30.test
+		filesToCompress[16] = I:\TEST\TESTFILE_1000_02_01.test
+		filesToCompress[17] = I:\TEST\TESTFILE_1000_02_02.test
+		filesToCompress[18] = I:\TEST\TESTFILE_1000_02_03.test
+		filesToCompress[19] = I:\TEST\TESTFILE_1000_02_04.test
+		filesToCompress[20] = I:\TEST\TESTFILE_1000_02_05.test
+		filesToCompress[21] = I:\TEST\TESTFILE_1000_02_06.test
+		filesToCompress[22] = I:\TEST\TESTFILE_1000_02_07.test
+		filesToCompress[23] = I:\TEST\TESTFILE_1000_02_08.test
+		filesToCompress[24] = I:\TEST\TESTFILE_1000_02_09.test
+		filesToCompress[25] = I:\TEST\TESTFILE_1000_02_10.test
+08/21/12 3:01:38 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_02_11.test.
+
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+		Current File - I:\TEST\TESTFILE_1000_02_11.test
+08/21/12 3:01:38 PM: Removing I:\TEST\TESTFILE_1000_01_16.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_02_11.test
+08/21/12 3:01:38 PM: Adding the file I:\TEST\test_file-1000_02_11.rar to the rarFiles array.
+08/21/12 3:01:38 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_01_16.test.
+
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+		Current File - I:\TEST\TESTFILE_1000_01_16.test
+08/21/12 3:01:38 PM: Removing I:\TEST\TESTFILE_1000_01_17.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_01_16.test
+08/21/12 3:01:38 PM: Adding the file I:\TEST\test_file-1000_01_16.rar to the rarFiles array.
+08/21/12 3:01:39 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_01_17.test.
+
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+		Current File - I:\TEST\TESTFILE_1000_01_17.test
+08/21/12 3:01:39 PM: Removing I:\TEST\TESTFILE_1000_01_18.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_01_17.test
+08/21/12 3:01:39 PM: Adding the file I:\TEST\test_file-1000_01_17.rar to the rarFiles array.
+08/21/12 3:01:39 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_01_18.test.
+
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+		Current File - I:\TEST\TESTFILE_1000_01_18.test
+08/21/12 3:01:39 PM: Removing I:\TEST\TESTFILE_1000_01_19.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_01_18.test
+08/21/12 3:01:39 PM: Adding the file I:\TEST\test_file-1000_01_18.rar to the rarFiles array.
+08/21/12 3:01:39 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_01_19.test.
+
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+		Current File - I:\TEST\TESTFILE_1000_01_19.test
+08/21/12 3:01:39 PM: Removing I:\TEST\TESTFILE_1000_01_20.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_01_19.test
+08/21/12 3:01:39 PM: Adding the file I:\TEST\test_file-1000_01_19.rar to the rarFiles array.
+08/21/12 3:01:39 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_01_20.test.
+
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+		Current File - I:\TEST\TESTFILE_1000_01_20.test
+08/21/12 3:01:39 PM: Removing I:\TEST\TESTFILE_1000_01_21.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_01_20.test
+08/21/12 3:01:39 PM: Adding the file I:\TEST\test_file-1000_01_20.rar to the rarFiles array.
+08/21/12 3:01:39 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_01_21.test.
+
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+		Current File - I:\TEST\TESTFILE_1000_01_21.test
+08/21/12 3:01:39 PM: Removing I:\TEST\TESTFILE_1000_01_22.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_01_21.test
+08/21/12 3:01:39 PM: Adding the file I:\TEST\test_file-1000_01_21.rar to the rarFiles array.
+08/21/12 3:01:40 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_01_22.test.
+
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+		Current File - I:\TEST\TESTFILE_1000_01_22.test
+08/21/12 3:01:40 PM: Removing I:\TEST\TESTFILE_1000_01_23.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_01_22.test
+08/21/12 3:01:40 PM: Adding the file I:\TEST\test_file-1000_01_22.rar to the rarFiles array.
+08/21/12 3:01:40 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_01_23.test.
+
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+		Current File - I:\TEST\TESTFILE_1000_01_23.test
+08/21/12 3:01:40 PM: Removing I:\TEST\TESTFILE_1000_01_24.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_01_23.test
+08/21/12 3:01:40 PM: Adding the file I:\TEST\test_file-1000_01_23.rar to the rarFiles array.
+08/21/12 3:01:40 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_01_24.test.
+
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+		Current File - I:\TEST\TESTFILE_1000_01_24.test
+08/21/12 3:01:40 PM: Removing I:\TEST\TESTFILE_1000_01_25.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_01_24.test
+08/21/12 3:01:40 PM: Adding the file I:\TEST\test_file-1000_01_24.rar to the rarFiles array.
+08/21/12 3:01:40 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_01_25.test.
+
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+		Current File - I:\TEST\TESTFILE_1000_01_25.test
+08/21/12 3:01:40 PM: Removing I:\TEST\TESTFILE_1000_01_26.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_01_25.test
+08/21/12 3:01:40 PM: Adding the file I:\TEST\test_file-1000_01_25.rar to the rarFiles array.
+08/21/12 3:01:41 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_01_26.test.
+
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+		Current File - I:\TEST\TESTFILE_1000_01_26.test
+08/21/12 3:01:41 PM: Removing I:\TEST\TESTFILE_1000_01_27.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_01_26.test
+08/21/12 3:01:41 PM: Adding the file I:\TEST\test_file-1000_01_26.rar to the rarFiles array.
+08/21/12 3:01:41 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_01_27.test.
+
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+		Current File - I:\TEST\TESTFILE_1000_01_27.test
+08/21/12 3:01:41 PM: Removing I:\TEST\TESTFILE_1000_01_28.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_01_27.test
+08/21/12 3:01:41 PM: Adding the file I:\TEST\test_file-1000_01_27.rar to the rarFiles array.
+08/21/12 3:01:41 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_01_28.test.
+
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+		Current File - I:\TEST\TESTFILE_1000_01_28.test
+08/21/12 3:01:41 PM: Removing I:\TEST\TESTFILE_1000_01_29.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_01_28.test
+08/21/12 3:01:41 PM: Adding the file I:\TEST\test_file-1000_01_28.rar to the rarFiles array.
+08/21/12 3:01:41 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_01_29.test.
+
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+		Current File - I:\TEST\TESTFILE_1000_01_29.test
+08/21/12 3:01:41 PM: Removing I:\TEST\TESTFILE_1000_01_30.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_01_29.test
+08/21/12 3:01:41 PM: Adding the file I:\TEST\test_file-1000_01_29.rar to the rarFiles array.
+08/21/12 3:01:42 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_01_30.test.
+
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+		Current File - I:\TEST\TESTFILE_1000_01_30.test
+08/21/12 3:01:42 PM: Removing I:\TEST\TESTFILE_1000_02_01.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_01_30.test
+08/21/12 3:01:42 PM: Adding the file I:\TEST\test_file-1000_01_30.rar to the rarFiles array.
+08/21/12 3:01:42 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_02_01.test.
+
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+		Current File - I:\TEST\TESTFILE_1000_02_01.test
+08/21/12 3:01:42 PM: Removing I:\TEST\TESTFILE_1000_02_02.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_02_01.test
+08/21/12 3:01:42 PM: Adding the file I:\TEST\test_file-1000_02_01.rar to the rarFiles array.
+08/21/12 3:01:42 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_02_02.test.
+
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+		Current File - I:\TEST\TESTFILE_1000_02_02.test
+08/21/12 3:01:42 PM: Removing I:\TEST\TESTFILE_1000_02_03.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_02_02.test
+08/21/12 3:01:42 PM: Adding the file I:\TEST\test_file-1000_02_02.rar to the rarFiles array.
+08/21/12 3:01:42 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_02_03.test.
+
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+		Current File - I:\TEST\TESTFILE_1000_02_03.test
+08/21/12 3:01:42 PM: Removing I:\TEST\TESTFILE_1000_02_04.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_02_03.test
+08/21/12 3:01:42 PM: Adding the file I:\TEST\test_file-1000_02_03.rar to the rarFiles array.
+08/21/12 3:01:42 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_02_04.test.
+
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+		Current File - I:\TEST\TESTFILE_1000_02_04.test
+08/21/12 3:01:43 PM: Removing I:\TEST\TESTFILE_1000_02_05.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_02_04.test
+08/21/12 3:01:43 PM: Adding the file I:\TEST\test_file-1000_02_04.rar to the rarFiles array.
+08/21/12 3:01:43 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_02_05.test.
+
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+		Current File - I:\TEST\TESTFILE_1000_02_05.test
+08/21/12 3:01:43 PM: Removing I:\TEST\TESTFILE_1000_02_06.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_02_05.test
+08/21/12 3:01:43 PM: Adding the file I:\TEST\test_file-1000_02_05.rar to the rarFiles array.
+08/21/12 3:01:43 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_02_06.test.
+
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+		Current File - I:\TEST\TESTFILE_1000_02_06.test
+08/21/12 3:01:43 PM: Removing I:\TEST\TESTFILE_1000_02_07.test from the compressedFiles array and and adding in I:\TEST\TESTFILE_1000_02_06.test
+08/21/12 3:01:43 PM: Adding the file I:\TEST\test_file-1000_02_06.rar to the rarFiles array.
+08/21/12 3:01:43 PM: Searching through the compressedFiles list for this file I:\TEST\TESTFILE_1000_02_07.test.
+
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test
+		Current File - I:\TEST\TESTFILE_1000_02_07.test

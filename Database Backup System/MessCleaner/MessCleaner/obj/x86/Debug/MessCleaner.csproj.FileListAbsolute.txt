@@ -1,0 +1,22 @@
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\MessCleaner\MessCleaner\bin\Debug\MessCleaner.exe.config
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\MessCleaner\MessCleaner\bin\Debug\MessCleaner.exe
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\MessCleaner\MessCleaner\bin\Debug\MessCleaner.pdb
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\MessCleaner\MessCleaner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\MessCleaner\MessCleaner\obj\x86\Debug\MessCleaner.configBrowser.resources
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\MessCleaner\MessCleaner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\MessCleaner\MessCleaner\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\MessCleaner\MessCleaner\obj\x86\Debug\MessCleaner.exe
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\MessCleaner\MessCleaner\obj\x86\Debug\MessCleaner.pdb
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\MessCleaner\MessCleaner\bin\Debug\MessCleaner.exe.config
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\MessCleaner\MessCleaner\bin\Debug\MessCleaner.exe
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\MessCleaner\MessCleaner\bin\Debug\MessCleaner.pdb
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\MessCleaner\MessCleaner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\MessCleaner\MessCleaner\obj\x86\Debug\MessCleaner.configBrowser.resources
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\MessCleaner\MessCleaner\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\MessCleaner\MessCleaner\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\MessCleaner\MessCleaner\obj\x86\Debug\MessCleaner.exe
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\MessCleaner\MessCleaner\obj\x86\Debug\MessCleaner.pdb
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\MessCleaner\MessCleaner\bin\Debug\MessCleaner.exe.manifest
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\MessCleaner\MessCleaner\bin\Debug\MessCleaner.application
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\MessCleaner\MessCleaner\obj\x86\Debug\MessCleaner.exe.manifest
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\MessCleaner\MessCleaner\obj\x86\Debug\MessCleaner.application

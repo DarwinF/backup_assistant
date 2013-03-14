@@ -1,0 +1,164 @@
+08/21/12 3:01:19 PM: Starting Program.
+08/21/12 3:01:20 PM: Running in debug mode. Please refer to the debug log for more information.
+08/21/12 3:01:20 PM: Getting number of Databases.
+08/21/12 3:01:20 PM: Filling an array with the files that have been compressed.
+08/21/12 3:01:20 PM: Getting Compressed Files.
+08/21/12 3:01:20 PM: The file existed and was read from.
+08/21/12 3:01:20 PM: Loading the information.
+08/21/12 3:01:38 PM: Getting ready to compress the file.
+08/21/12 3:01:38 PM: Searching for a compressed files.
+08/21/12 3:01:38 PM: Removing the date from the current file.
+08/21/12 3:01:38 PM: Performing date operations.
+08/21/12 3:01:38 PM: Writing the Batch file.
+08/21/12 3:01:38 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:38 PM: Adding files to the array of .rar files.
+08/21/12 3:01:38 PM: I:\TEST\test_file-1000_02_11.rar was compressed from file: I:\TEST\TESTFILE_1000_02_11.test
+08/21/12 3:01:38 PM: Searching for a compressed files.
+08/21/12 3:01:38 PM: Removing the date from the current file.
+08/21/12 3:01:38 PM: Performing date operations.
+08/21/12 3:01:38 PM: Writing the Batch file.
+08/21/12 3:01:38 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:38 PM: Adding files to the array of .rar files.
+08/21/12 3:01:39 PM: I:\TEST\test_file-1000_01_16.rar was compressed from file: I:\TEST\TESTFILE_1000_01_16.test
+08/21/12 3:01:39 PM: Searching for a compressed files.
+08/21/12 3:01:39 PM: Removing the date from the current file.
+08/21/12 3:01:39 PM: Performing date operations.
+08/21/12 3:01:39 PM: Writing the Batch file.
+08/21/12 3:01:39 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:39 PM: Adding files to the array of .rar files.
+08/21/12 3:01:39 PM: I:\TEST\test_file-1000_01_17.rar was compressed from file: I:\TEST\TESTFILE_1000_01_17.test
+08/21/12 3:01:39 PM: Searching for a compressed files.
+08/21/12 3:01:39 PM: Removing the date from the current file.
+08/21/12 3:01:39 PM: Performing date operations.
+08/21/12 3:01:39 PM: Writing the Batch file.
+08/21/12 3:01:39 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:39 PM: Adding files to the array of .rar files.
+08/21/12 3:01:39 PM: I:\TEST\test_file-1000_01_18.rar was compressed from file: I:\TEST\TESTFILE_1000_01_18.test
+08/21/12 3:01:39 PM: Searching for a compressed files.
+08/21/12 3:01:39 PM: Removing the date from the current file.
+08/21/12 3:01:39 PM: Performing date operations.
+08/21/12 3:01:39 PM: Writing the Batch file.
+08/21/12 3:01:39 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:39 PM: Adding files to the array of .rar files.
+08/21/12 3:01:39 PM: I:\TEST\test_file-1000_01_19.rar was compressed from file: I:\TEST\TESTFILE_1000_01_19.test
+08/21/12 3:01:39 PM: Searching for a compressed files.
+08/21/12 3:01:39 PM: Removing the date from the current file.
+08/21/12 3:01:39 PM: Performing date operations.
+08/21/12 3:01:39 PM: Writing the Batch file.
+08/21/12 3:01:39 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:39 PM: Adding files to the array of .rar files.
+08/21/12 3:01:39 PM: I:\TEST\test_file-1000_01_20.rar was compressed from file: I:\TEST\TESTFILE_1000_01_20.test
+08/21/12 3:01:39 PM: Searching for a compressed files.
+08/21/12 3:01:39 PM: Removing the date from the current file.
+08/21/12 3:01:39 PM: Performing date operations.
+08/21/12 3:01:39 PM: Writing the Batch file.
+08/21/12 3:01:39 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:39 PM: Adding files to the array of .rar files.
+08/21/12 3:01:40 PM: I:\TEST\test_file-1000_01_21.rar was compressed from file: I:\TEST\TESTFILE_1000_01_21.test
+08/21/12 3:01:40 PM: Searching for a compressed files.
+08/21/12 3:01:40 PM: Removing the date from the current file.
+08/21/12 3:01:40 PM: Performing date operations.
+08/21/12 3:01:40 PM: Writing the Batch file.
+08/21/12 3:01:40 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:40 PM: Adding files to the array of .rar files.
+08/21/12 3:01:40 PM: I:\TEST\test_file-1000_01_22.rar was compressed from file: I:\TEST\TESTFILE_1000_01_22.test
+08/21/12 3:01:40 PM: Searching for a compressed files.
+08/21/12 3:01:40 PM: Removing the date from the current file.
+08/21/12 3:01:40 PM: Performing date operations.
+08/21/12 3:01:40 PM: Writing the Batch file.
+08/21/12 3:01:40 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:40 PM: Adding files to the array of .rar files.
+08/21/12 3:01:40 PM: I:\TEST\test_file-1000_01_23.rar was compressed from file: I:\TEST\TESTFILE_1000_01_23.test
+08/21/12 3:01:40 PM: Searching for a compressed files.
+08/21/12 3:01:40 PM: Removing the date from the current file.
+08/21/12 3:01:40 PM: Performing date operations.
+08/21/12 3:01:40 PM: Writing the Batch file.
+08/21/12 3:01:40 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:40 PM: Adding files to the array of .rar files.
+08/21/12 3:01:40 PM: I:\TEST\test_file-1000_01_24.rar was compressed from file: I:\TEST\TESTFILE_1000_01_24.test
+08/21/12 3:01:40 PM: Searching for a compressed files.
+08/21/12 3:01:40 PM: Removing the date from the current file.
+08/21/12 3:01:40 PM: Performing date operations.
+08/21/12 3:01:40 PM: Writing the Batch file.
+08/21/12 3:01:40 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:40 PM: Adding files to the array of .rar files.
+08/21/12 3:01:41 PM: I:\TEST\test_file-1000_01_25.rar was compressed from file: I:\TEST\TESTFILE_1000_01_25.test
+08/21/12 3:01:41 PM: Searching for a compressed files.
+08/21/12 3:01:41 PM: Removing the date from the current file.
+08/21/12 3:01:41 PM: Performing date operations.
+08/21/12 3:01:41 PM: Writing the Batch file.
+08/21/12 3:01:41 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:41 PM: Adding files to the array of .rar files.
+08/21/12 3:01:41 PM: I:\TEST\test_file-1000_01_26.rar was compressed from file: I:\TEST\TESTFILE_1000_01_26.test
+08/21/12 3:01:41 PM: Searching for a compressed files.
+08/21/12 3:01:41 PM: Removing the date from the current file.
+08/21/12 3:01:41 PM: Performing date operations.
+08/21/12 3:01:41 PM: Writing the Batch file.
+08/21/12 3:01:41 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:41 PM: Adding files to the array of .rar files.
+08/21/12 3:01:41 PM: I:\TEST\test_file-1000_01_27.rar was compressed from file: I:\TEST\TESTFILE_1000_01_27.test
+08/21/12 3:01:41 PM: Searching for a compressed files.
+08/21/12 3:01:41 PM: Removing the date from the current file.
+08/21/12 3:01:41 PM: Performing date operations.
+08/21/12 3:01:41 PM: Writing the Batch file.
+08/21/12 3:01:41 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:41 PM: Adding files to the array of .rar files.
+08/21/12 3:01:41 PM: I:\TEST\test_file-1000_01_28.rar was compressed from file: I:\TEST\TESTFILE_1000_01_28.test
+08/21/12 3:01:41 PM: Searching for a compressed files.
+08/21/12 3:01:41 PM: Removing the date from the current file.
+08/21/12 3:01:41 PM: Performing date operations.
+08/21/12 3:01:41 PM: Writing the Batch file.
+08/21/12 3:01:41 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:41 PM: Adding files to the array of .rar files.
+08/21/12 3:01:42 PM: I:\TEST\test_file-1000_01_29.rar was compressed from file: I:\TEST\TESTFILE_1000_01_29.test
+08/21/12 3:01:42 PM: Searching for a compressed files.
+08/21/12 3:01:42 PM: Removing the date from the current file.
+08/21/12 3:01:42 PM: Performing date operations.
+08/21/12 3:01:42 PM: Writing the Batch file.
+08/21/12 3:01:42 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:42 PM: Adding files to the array of .rar files.
+08/21/12 3:01:42 PM: I:\TEST\test_file-1000_01_30.rar was compressed from file: I:\TEST\TESTFILE_1000_01_30.test
+08/21/12 3:01:42 PM: Searching for a compressed files.
+08/21/12 3:01:42 PM: Removing the date from the current file.
+08/21/12 3:01:42 PM: Performing date operations.
+08/21/12 3:01:42 PM: Writing the Batch file.
+08/21/12 3:01:42 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:42 PM: Adding files to the array of .rar files.
+08/21/12 3:01:42 PM: I:\TEST\test_file-1000_02_01.rar was compressed from file: I:\TEST\TESTFILE_1000_02_01.test
+08/21/12 3:01:42 PM: Searching for a compressed files.
+08/21/12 3:01:42 PM: Removing the date from the current file.
+08/21/12 3:01:42 PM: Performing date operations.
+08/21/12 3:01:42 PM: Writing the Batch file.
+08/21/12 3:01:42 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:42 PM: Adding files to the array of .rar files.
+08/21/12 3:01:42 PM: I:\TEST\test_file-1000_02_02.rar was compressed from file: I:\TEST\TESTFILE_1000_02_02.test
+08/21/12 3:01:42 PM: Searching for a compressed files.
+08/21/12 3:01:42 PM: Removing the date from the current file.
+08/21/12 3:01:42 PM: Performing date operations.
+08/21/12 3:01:42 PM: Writing the Batch file.
+08/21/12 3:01:42 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:42 PM: Adding files to the array of .rar files.
+08/21/12 3:01:42 PM: I:\TEST\test_file-1000_02_03.rar was compressed from file: I:\TEST\TESTFILE_1000_02_03.test
+08/21/12 3:01:42 PM: Searching for a compressed files.
+08/21/12 3:01:43 PM: Removing the date from the current file.
+08/21/12 3:01:43 PM: Performing date operations.
+08/21/12 3:01:43 PM: Writing the Batch file.
+08/21/12 3:01:43 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:43 PM: Adding files to the array of .rar files.
+08/21/12 3:01:43 PM: I:\TEST\test_file-1000_02_04.rar was compressed from file: I:\TEST\TESTFILE_1000_02_04.test
+08/21/12 3:01:43 PM: Searching for a compressed files.
+08/21/12 3:01:43 PM: Removing the date from the current file.
+08/21/12 3:01:43 PM: Performing date operations.
+08/21/12 3:01:43 PM: Writing the Batch file.
+08/21/12 3:01:43 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:43 PM: Adding files to the array of .rar files.
+08/21/12 3:01:43 PM: I:\TEST\test_file-1000_02_05.rar was compressed from file: I:\TEST\TESTFILE_1000_02_05.test
+08/21/12 3:01:43 PM: Searching for a compressed files.
+08/21/12 3:01:43 PM: Removing the date from the current file.
+08/21/12 3:01:43 PM: Performing date operations.
+08/21/12 3:01:43 PM: Writing the Batch file.
+08/21/12 3:01:43 PM: Pushing the oldest file out of the current file list.
+08/21/12 3:01:43 PM: Adding files to the array of .rar files.
+08/21/12 3:01:43 PM: I:\TEST\test_file-1000_02_06.rar was compressed from file: I:\TEST\TESTFILE_1000_02_06.test
+08/21/12 3:01:43 PM: Searching for a compressed files.
+08/21/12 3:01:43 PM: Removing the date from the current file.

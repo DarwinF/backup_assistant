@@ -1,0 +1,47 @@
+C:\Documents and Settings\u3149\Local Settings\Application Data\Temporary Projects\Settings Editor\bin\Debug\Settings Editor.exe
+C:\Documents and Settings\u3149\Local Settings\Application Data\Temporary Projects\Settings Editor\bin\Debug\Settings Editor.pdb
+C:\Documents and Settings\u3149\Local Settings\Application Data\Temporary Projects\Settings Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u3149\Local Settings\Application Data\Temporary Projects\Settings Editor\obj\x86\Debug\Settings_Editor.Form1.resources
+C:\Documents and Settings\u3149\Local Settings\Application Data\Temporary Projects\Settings Editor\obj\x86\Debug\Settings_Editor.Properties.Resources.resources
+C:\Documents and Settings\u3149\Local Settings\Application Data\Temporary Projects\Settings Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\u3149\Local Settings\Application Data\Temporary Projects\Settings Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\u3149\Local Settings\Application Data\Temporary Projects\Settings Editor\obj\x86\Debug\Settings Editor.exe
+C:\Documents and Settings\u3149\Local Settings\Application Data\Temporary Projects\Settings Editor\obj\x86\Debug\Settings Editor.pdb
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\Settings Editor\Settings Editor\obj\x86\Debug\Settings Editor.exe
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\Settings Editor\Settings Editor\obj\x86\Debug\Settings Editor.pdb
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\Settings Editor\Settings Editor\bin\Debug\Settings Editor.exe.config
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\Settings Editor\Settings Editor\bin\Debug\Settings Editor.exe
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\Settings Editor\Settings Editor\bin\Debug\Settings Editor.pdb
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\Settings Editor\Settings Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\Settings Editor\Settings Editor\obj\x86\Debug\Settings_Editor.mainForm.resources
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\Settings Editor\Settings Editor\obj\x86\Debug\Settings_Editor.Properties.Resources.resources
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\Settings Editor\Settings Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\Settings Editor\Settings Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programming\WORK\Database Backup System\Settings Editor\Settings Editor\bin\Debug\Settings Editor.exe.config
+E:\Programming\WORK\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\Settings Editor.exe
+E:\Programming\WORK\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\Settings Editor.pdb
+E:\Programming\WORK\Database Backup System\Settings Editor\Settings Editor\bin\Debug\Settings Editor.exe
+E:\Programming\WORK\Database Backup System\Settings Editor\Settings Editor\bin\Debug\Settings Editor.pdb
+E:\Programming\WORK\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\Settings Editor.csprojResolveAssemblyReference.cache
+E:\Programming\WORK\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\Settings_Editor.mainForm.resources
+E:\Programming\WORK\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\Settings_Editor.Properties.Resources.resources
+E:\Programming\WORK\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\Settings Editor.csproj.GenerateResource.Cache
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\Settings Editor\Settings Editor\bin\Debug\Settings Editor.exe.config
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\Settings Editor.exe
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\Settings Editor.pdb
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\Settings Editor\Settings Editor\bin\Debug\Settings Editor.exe
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\Settings Editor\Settings Editor\bin\Debug\Settings Editor.pdb
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\Settings_Editor.mainForm.resources
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\Settings_Editor.Properties.Resources.resources
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Programming\WORK\db-backup-system\Database Backup System\Settings Editor\Settings Editor\bin\Debug\Settings Editor.exe.config
+E:\Programming\WORK\db-backup-system\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\Settings Editor.exe
+E:\Programming\WORK\db-backup-system\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\Settings Editor.pdb
+E:\Programming\WORK\db-backup-system\Database Backup System\Settings Editor\Settings Editor\bin\Debug\Settings Editor.exe
+E:\Programming\WORK\db-backup-system\Database Backup System\Settings Editor\Settings Editor\bin\Debug\Settings Editor.pdb
+E:\Programming\WORK\db-backup-system\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\Settings Editor.csprojResolveAssemblyReference.cache
+E:\Programming\WORK\db-backup-system\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\Settings_Editor.mainForm.resources
+E:\Programming\WORK\db-backup-system\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\Settings_Editor.Properties.Resources.resources
+E:\Programming\WORK\db-backup-system\Database Backup System\Settings Editor\Settings Editor\obj\x86\Debug\Settings Editor.csproj.GenerateResource.Cache

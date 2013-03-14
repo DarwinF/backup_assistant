@@ -1,0 +1,30 @@
+8/25/2012 19:53:50: Running in Debug Mode.
+8/25/2012 19:53:50: There are 1 databases.
+8/25/2012 19:53:50: The rarFileArraySize variable has been set to 62
+8/25/2012 19:53:50: The compressedFiles, rarFiles, and monthList arrays have been initialized.
+8/25/2012 19:53:50: Compressed Files were loaded from the File List and put into the array.
+		compressedFiles[0] = I:\TEST\TESTFILE_1000_01_16.test
+		compressedFiles[1] = I:\TEST\TESTFILE_1000_01_17.test
+		compressedFiles[2] = I:\TEST\TESTFILE_1000_01_18.test
+		compressedFiles[3] = I:\TEST\TESTFILE_1000_01_19.test
+		compressedFiles[4] = I:\TEST\TESTFILE_1000_01_20.test
+		compressedFiles[5] = I:\TEST\TESTFILE_1000_01_21.test
+		compressedFiles[6] = I:\TEST\TESTFILE_1000_01_22.test
+		compressedFiles[7] = I:\TEST\TESTFILE_1000_01_23.test
+		compressedFiles[8] = I:\TEST\TESTFILE_1000_01_24.test
+		compressedFiles[9] = I:\TEST\TESTFILE_1000_01_25.test
+		compressedFiles[10] = I:\TEST\TESTFILE_1000_01_26.test
+		compressedFiles[11] = I:\TEST\TESTFILE_1000_01_27.test
+		compressedFiles[12] = I:\TEST\TESTFILE_1000_01_28.test
+		compressedFiles[13] = I:\TEST\TESTFILE_1000_01_29.test
+		compressedFiles[14] = I:\TEST\TESTFILE_1000_01_30.test
+		compressedFiles[15] = I:\TEST\TESTFILE_1000_02_01.test
+		compressedFiles[16] = I:\TEST\TESTFILE_1000_02_02.test
+		compressedFiles[17] = I:\TEST\TESTFILE_1000_02_03.test
+		compressedFiles[18] = I:\TEST\TESTFILE_1000_02_04.test
+		compressedFiles[19] = I:\TEST\TESTFILE_1000_02_05.test
+		compressedFiles[20] = I:\TEST\TESTFILE_1000_02_06.test
+		compressedFiles[21] = I:\TEST\TESTFILE_1000_02_07.test
+		compressedFiles[22] = I:\TEST\TESTFILE_1000_02_08.test
+		compressedFiles[23] = I:\TEST\TESTFILE_1000_02_09.test
+		compressedFiles[24] = I:\TEST\TESTFILE_1000_02_10.test

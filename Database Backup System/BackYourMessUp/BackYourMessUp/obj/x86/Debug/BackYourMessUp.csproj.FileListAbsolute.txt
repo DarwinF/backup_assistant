@@ -1,0 +1,16 @@
+C:\Documents and Settings\u3149\Local Settings\Application Data\Temporary Projects\BackYourMessUp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\BackYourMessUp\BackYourMessUp\bin\Debug\BackYourMessUp.exe.config
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\BackYourMessUp\BackYourMessUp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\BackYourMessUp\BackYourMessUp\bin\Debug\BackYourMessUp.exe
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\BackYourMessUp\BackYourMessUp\bin\Debug\BackYourMessUp.pdb
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\BackYourMessUp\BackYourMessUp\obj\x86\Debug\BackYourMessUp.exe
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\BackYourMessUp\BackYourMessUp\obj\x86\Debug\BackYourMessUp.pdb
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\BackYourMessUp\BackYourMessUp\bin\Debug\BackYourMessUp.exe.manifest
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\BackYourMessUp\BackYourMessUp\bin\Debug\BackYourMessUp.application
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\BackYourMessUp\BackYourMessUp\obj\x86\Debug\BackYourMessUp.TrustInfo.xml
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\BackYourMessUp\BackYourMessUp\obj\x86\Debug\BackYourMessUp.exe.manifest
+C:\Documents and Settings\u3149\my documents\visual studio 2010\Projects\BackYourMessUp\BackYourMessUp\obj\x86\Debug\BackYourMessUp.application
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\BackYourMessUp\BackYourMessUp\obj\x86\Debug\BackYourMessUp.Properties.Resources.resources
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\BackYourMessUp\BackYourMessUp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\BackYourMessUp\BackYourMessUp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\u3149\My Documents\Visual Studio 2010\Projects\BackYourMessUp\BackYourMessUp\obj\x86\Debug\BackYourMessUp.configBrowser.resources
